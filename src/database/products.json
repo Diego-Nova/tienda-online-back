@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Playera Deportiva para Hombre",
+        "description": "Playera deportiva para Hombre con tecnologia que se ajusta a tu cuerpo",
+        "price": 250.00,
+        "image": "./imagenes/imagen2.jpeg"
+    },
+    {
+        "name": "Playera Deportiva para Mujer",
+        "description": "PLayera deportiva para mujer con corte REGULAR FIT",
+        "price": 220.00,
+        "image": "./imagenes/imagen3.jpeg"
+    },
+    {
+        "name": "Gorra UNISEX",
+        "description": "Gorra UNISEX ajustable para adulto",
+        "price": 170.00,
+        "image": "./imagenes/imagen4.jpeg"
+    },
+    {
+        "name": "Combo Playeras + Gorras",
+        "description": "COMBO 4: El combo contiene 4 gorras y 4 playeras, puedes convinar tallas y modelos",
+        "price": 1100.00,
+        "image": "./imagenes/imagen1.jpeg"
+    },
+    {
+        "name": "Playera Hombre edicion especial",
+        "description": "Playera para hombre edición especial corte SLIM FIT",
+        "price": 130.00,
+        "image": "./imagenes/jumbotron1.jpeg"
+    },
+    {
+        "name": "Playera Mujer edicion especial",
+        "description": "Playera para mujer edición especial corte SLIM FIT",
+        "price": 130.00,
+        "image": "./imagenes/jumbotron3.jpeg"
+    }
+]
