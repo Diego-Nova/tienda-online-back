@@ -11,7 +11,7 @@ app.use(cors());
 app.get("/", (req, res) => {
   return res.json({
     msg: "Bienvenido al API",
-    autor: "Jesus",
+    autor: "Diego",
   });
 });
 
